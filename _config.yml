@@ -1,0 +1,28 @@
+name: YogaBookApp
+favicon: null
+layout_spectrum: 0.7817329450044781
+typography_spectrum: 0.5440024388954043
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5671267630532384
+  lightness: 0.1978106943424791
+  saturation: 0.5517324234824628
+  rhythmicContrast: 0.768018885049969
+purpose: []

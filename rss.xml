@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[YogaBookApp]]></title>
         <description><![CDATA[YogaBookApp]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.yogabookapp.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 20:03:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 20:05:50 GMT</lastBuildDate>
+        <atom:link href="http://www.yogabookapp.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>keep all yoga classes at your fingertips</p>]]></description>
-            <link>undefined467259b4-a57d-40b9-9338-3228343db1e9/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4c168f1-4f3f-4f73-95ef-914678bf8b24.JPG">]]></description>
+            <link>http://www.yogabookapp.com/467259b4-a57d-40b9-9338-3228343db1e9/index.html</link>
             <guid isPermaLink="false">467259b4-a57d-40b9-9338-3228343db1e9</guid>
-            <pubDate>Fri, 19 Feb 2016 20:03:54 GMT</pubDate>
+            <pubDate>Fri, 19 Feb 2016 20:04:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

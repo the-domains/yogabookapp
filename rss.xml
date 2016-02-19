@@ -4,14 +4,14 @@
         <description><![CDATA[YogaBookApp]]></description>
         <link>http://www.yogabookapp.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 20:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 21:15:18 GMT</lastBuildDate>
         <atom:link href="http://www.yogabookapp.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a205b3ee-4dcc-45ac-90c9-d438d4251be7.JPG">]]></description>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbb1afc52fbbd7c63c345c5bee61323a01509878.jpg" alt="" title="">]]></description>
             <link>http://www.yogabookapp.com/467259b4-a57d-40b9-9338-3228343db1e9/index.html</link>
             <guid isPermaLink="false">467259b4-a57d-40b9-9338-3228343db1e9</guid>
-            <pubDate>Fri, 19 Feb 2016 20:21:47 GMT</pubDate>
+            <pubDate>Fri, 19 Feb 2016 21:13:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
